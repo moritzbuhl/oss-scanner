@@ -1,0 +1,6 @@
+repo: https://github.com/tpm2-software/tpm2-tss
+primary_contact: moritz.buhl@infineon.com
+auto_ccs:
+  - andreas.fuchs@infineon.com
+  - juergen_repp@web.de
+homepage: https://tpm2-software.github.io/
